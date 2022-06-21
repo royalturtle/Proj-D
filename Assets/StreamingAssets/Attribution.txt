@@ -1,0 +1,31 @@
+■ Fonts
+  [Scoreboard9x13 : https://heraldod.itch.io/bitmap-fonts]
+  [Silver : https://poppyworks.itch.io/silver]
+  [Noto Sans : https://fonts.google.com/noto/specimen/Noto+Sans+KR]
+
+■ Effects
+  [Pixel Effects Pack : https://codemanu.itch.io/pixelart-effect-pack]
+  [Portal : https://ruxar.itch.io/portal]
+  [2D Pixel Art Game Spellmagic fx : https://ppeldo.itch.io/2d-pixel-art-game-spellmagic-fx]
+
+■ GameObjects
+  [2D Pixel RPG Moster Pack : https://assetstore.unity.com/packages/2d/characters/2d-pixel-rpg-monster-pack-174649]
+  [Puny Characters : https://merchant-shade.itch.io/16x16-puny-characters]
+  [Pixel Art Top Down Basic : https://cainos.itch.io/pixel-art-top-down-basic]
+  [Super Dungeon 16x16 : https://jadsonholanda.itch.io/super-dungeon-16-x-16]
+  [Pixel Art Side Scroller 5 : https://hugues-laborde.itch.io/pixelartsidescroller5]
+
+■ GUI
+  [Rpg Asset Pack 1, 2 : https://cottoncandynapalm.itch.io/]
+  [Button Sprites : https://kai-software.itch.io/botton-sprites]
+  [LiteUI Fantasy : https://itch.io/queue/c/1722706/gui?game_id=1358486]
+  [Pixel Art Gui Elements : https://mounirtohami.itch.io/pixel-art-gui-elements]
+  [Skills : https://pixerelia.itch.io/vas-basic-spells-and-buffs]
+
+■ Sound
+  ● BGM
+    [dungeon_theme_1, Fanfare_1, Game_Over_1, night_theme_1, night_theme_2
+      : https://svl.itch.io/rpg-music-pack-svl]
+
+  ● SFX
+    [All by : https://alan-dalcastagne.itch.io/]

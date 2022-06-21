@@ -1,0 +1,52 @@
+1	0	Dice Changer (1)	주사위 변경 (1)
+1	1	Dice Changer (All)	주사위 변경 (전체)
+1	2	Plus	증가
+1	3	Minus	감소
+1	4	Double Chance	추가 기회
+1	5	Reuse	재사용
+2	0	Change the selected dice	선택한 주사위를 변경
+2	1	Change all dices	모든 주사위를 변경
+2	2	Add dice eyes\n(6 becomes 1)	주사위의 눈을 1 증가\n(6은 1으로 변경)
+2	3	Reduce dice eyes\n(1 becomes 6)	주사위의 눈을 1 감소\n(1은 6으로 변경)
+2	4	Can roll the dice twice	주사위를 두 번 던질 수 있다.
+2	5	Do not discard\nthe dice used this turn.	이번 턴에 사용한 주사위를\n버리지 않는다.
+11	0		
+11	1	Make the sum greater than or equal to {0} \n and less than or equal to {1}	총 합이 {0} 이상 {1} 이하인 숫자를 만들어라
+11	2	Get {0} odd numbers	홀수를 {0}개 얻어라
+11	3	Get {0} even numbers	짝수를 {0}개 얻어라
+11	4	Avoid the numbers below {0} times	아래의 숫자들을 {0}번 피해라
+11	5		
+11	6		
+11	7		
+11	8	Make the sum greater than or equal to {0}	총 합이 {0}이상인 숫자를 만들어라
+11	9	Make the sum less than or equal to {0}	총 합이 {0}이하인 숫자를 만들어라
+11	10	Collect {0} non-duplicate numbers	중복되지 않은 {0} 개의 숫자를 모아라
+11	11	Make the sum greater than or equal to {0}	총 합이 {0}이상인 숫자를 만들어라
+5	0	Yes	예
+5	1	No	아니오
+5	2	Continue	계속하기
+5	3	New Game	새 게임
+5	4	Settings	환경 설정
+5	5	Skills	스킬
+5	6	Close	닫기
+5	7	Use	사용
+5	8	To Title Screen	타이틀 화면으로
+5	9	Restart	재시작
+5	10	Exit Game	게임 종료
+5	11	Do you want to\nremove the current game and restart?	진행된 상태를 삭제하고\n재시작하겠습니까?
+5	12	Do you want to\ngo to the title screen?	타이틀 화면으로\n돌아가시겠습니까?
+5	13	Do you want to delete saved data\n and start a new game?	저장된 데이터를 삭제하고\n새로운 게임을 시작하겠습니까?
+5	14	ROLL	던지기
+5	15	ATTACK	공격
+5	16	CONFIRM	확정
+5	17	Shield	보호막
+5	18	Remains	남은 성공
+5	19	Not enough skill points	스킬 포인트가 부족합니다
+5	20	SUCCESS	성공
+5	21	FAILED	실패
+5	22	Terms &\nConditions	이용약관
+5	23	Privacy\nPolicy	개인 정보 정책
+5	24	Attribution	저작권자\n표기
+5	25	Info	기타 정보
+5	26	This skill must be used\nafter selecting the dice	이 스킬은 주사위를 선택 후\n사용해야합니다
+5	27	Do you want to quit the game?	게임을 종료하겠습니까?

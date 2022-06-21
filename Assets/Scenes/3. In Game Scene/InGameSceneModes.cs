@@ -1,0 +1,17 @@
+public enum InGameSceneModes {
+    NONE,
+    SCENARIO,
+    BATTLE_START,
+    READY_GIMIC,
+    READY_TURN,
+    ROLLING_BEFORE,
+    ROLLING,
+    ROLLING_AFTER,
+    ATTACK_BEFORE,
+    ATTACK,
+    ATTACK_AFTER,
+    GET_DAMAGE,
+    STAGE_CLEAR,
+    GAME_CLEAR,
+    GAME_OVER,
+}
