@@ -6,10 +6,10 @@
 # 링크
 
 동작 방식 설명서
-([Google Drive](https://docs.google.com/document/d/1Rwv1Ry97_lR8SebZ1iaPqSQ-A8cn-vyB50Il9emDB3Y/edit?usp=sharing))
+([Google Docs](https://docs.google.com/document/d/1Rwv1Ry97_lR8SebZ1iaPqSQ-A8cn-vyB50Il9emDB3Y/edit?usp=sharing))
 
 Google Play Store
-([Link](https://docs.google.com/document/d/1Rwv1Ry97_lR8SebZ1iaPqSQ-A8cn-vyB50Il9emDB3Y/edit?usp=sharing))
+([Link](https://play.google.com/store/apps/details?id=com.Royalturtle.SleepingDice))
 
 
 # 사진
